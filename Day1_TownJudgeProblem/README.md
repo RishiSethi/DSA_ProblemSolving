@@ -1,4 +1,4 @@
-# Day 1 Towm Judge Problem
+# Day 1 Town Judge Problem
 ## Problem link: https://leetcode.com/problems/find-the-town-judge/
 
 ![Screenshot of description and solution on Leetcode](https://github.com/RishiSethi/DSA_ProblemSolving_with_Python3/assets/72301298/3d766206-fdda-429e-abe9-90a1c7f72be6)
